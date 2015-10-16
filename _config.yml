@@ -1,7 +1,7 @@
-name: null
+name: hacker
 favicon: null
-layout_spectrum: 0.8
-typography_spectrum: 0.5
+layout_spectrum: 0.1979792902711779
+typography_spectrum: 0.5748276163358241
 cta:
   domain: null
   bucket: null
@@ -19,6 +19,7 @@ color:
   brandStrength: 0
   lightness: 0.5
   saturation: 0.5
+  rhythmicContrast: 0.198263336205855
 purpose:
   - name: shares
     item: null
